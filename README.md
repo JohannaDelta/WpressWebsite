@@ -1,3 +1,7 @@
 # WpressWebsite
 
-Access the file from --> https://shorturl.at/ouxGO
+This Website was developed in Wordpress.
+Please, access and download the file from --> https://shorturl.at/ouxGO 
+
+
+
